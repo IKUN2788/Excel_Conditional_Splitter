@@ -1,3 +1,5 @@
+<img width="902" height="1089" alt="image" src="https://github.com/user-attachments/assets/d9236740-e583-4e95-a179-939d38123812" />
+
 # 告别手动筛选复制！Python打造高颜值Excel条件拆分工具
 
 在日常的数据处理工作中，我们经常遇到这样的需求：拿到一张包含几千条数据的Excel总表，需要根据某一列（比如“班级”、“部门”或“分数段”）将数据拆分成不同的小表。
